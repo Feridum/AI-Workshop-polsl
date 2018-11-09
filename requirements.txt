@@ -1,0 +1,10 @@
+jupyter
+keras
+tensorflow
+pillow
+tqdm
+matplotlib
+pydot
+graphviz
+scikit-learn
+seaborn
