@@ -106,8 +106,8 @@ venv.bak/
 # dataset
 img_align_celeba
 list_attr_celeba.txt
+list_landmarks_align_celeba.txt
 
 
 #vs code
 .vscode
-
