@@ -8,4 +8,5 @@ pydot
 graphviz
 scikit-learn
 seaborn
-keras-vis
+https://github.com/raghakot/keras-vis/archive/master.zip
+python-resize-image
