@@ -1,4 +1,4 @@
-# AI Workshop polsl
+# AI Workshop Politechnika Śląska
 
 To repozytorium zawiera materiały użyte podczas części praktycznej warsztatów z wykorzystania AI i wizji komputerowej, a szczególnie w medycynie.  
   
