@@ -31,3 +31,8 @@ pip install -r requirements.txt
 Teraz aktywację środowiska można przeprowadzić poprzez:
 * `activate aipolsl` (windows)
 * `source activate aipolsl` (linux/git bash)
+
+### Uruchomienie jupyter notebook'a
+```bash
+jupyter notebook
+```
